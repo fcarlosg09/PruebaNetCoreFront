@@ -67,7 +67,7 @@ export const Home = () => {
                     onClick={Fn_AbrirModal}
                 >Crear vehículo</button>
                 <Tabla listadoVehiculos={listadoVehiculos} FnConsultarVehiculos={FnConsultarVehiculos} />
-            </div>
+            </div> 
         </div>
 
         <ModalVehiculo
