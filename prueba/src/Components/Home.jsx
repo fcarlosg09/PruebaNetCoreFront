@@ -62,7 +62,7 @@ export const Home = () => {
     <div className='container my-5'>
         <div className='row justify-content-center'>
             <div className='col-10'>
-                <button
+                <button 
                     className='btn btn-primary'
                     onClick={Fn_AbrirModal}
                 >Crear vehículo</button>
